@@ -1,4 +1,5 @@
-2026 Indian Legislative Assembly Election Predictions - 4 States & 1 UT
+## 2026 Indian Legislative Assembly Election Predictions - 4 States & 1 UT
+
 A data-driven forecasting project modeling the 2026 Legislative Assembly elections across four Indian states and 1 union territory.
 
 Overview
