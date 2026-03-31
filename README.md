@@ -7,8 +7,8 @@ This project applies electoral analytics, demographic modeling, and historical v
 
 States & Union Territories Covered
 
-Assam - 126 seats
-West Bengal - 294 seats
-Keralam - 140 seats
-Tamil Nadu - 234 seats 
+Assam - 126 seats,
+West Bengal - 294 seats,
+Keralam - 140 seats,
+Tamil Nadu - 234 seats, 
 Puducherry - 30 seats
